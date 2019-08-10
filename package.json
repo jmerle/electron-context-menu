@@ -29,7 +29,7 @@
 	],
 	"dependencies": {
 		"cli-truncate": "^2.0.0",
-		"electron-dl": "^1.2.0",
+		"electron-dl": "https://github.com/jmerle/electron-dl/tarball/a346dbbbc6a85e268ec5f3f42c5799f063f09199",
 		"electron-is-dev": "^1.0.1"
 	},
 	"devDependencies": {
